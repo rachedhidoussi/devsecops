@@ -1,3 +1,0 @@
-# devsecops
-# devsecops
-# devsecops
